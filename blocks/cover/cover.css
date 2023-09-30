@@ -1,0 +1,7 @@
+.cover {
+  padding: 7px 20px 30px 20px;
+  background-image: url(../../images/cover.svg);
+  background-size: 95% auto;
+  background-repeat: no-repeat;
+  background-position: right center;
+}
