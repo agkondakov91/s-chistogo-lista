@@ -22,3 +22,18 @@
 @import url(../blocks/accent-span/accent-span.css);
 @import url(../blocks/text-center/text-center.css);
 @import url(../blocks/text-right/text-right.css);
+
+/* Intro */
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__heading/intro__heading.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__date/intro__date.css);
+@import url(../blocks/intro/__main-text/intro__main-text.css);
+
+/* Reasons */
+@import url(../blocks/reasons/reasons.css);
+@import url(../blocks/content-section/__subtitle/content-section__subtitle.css);
+@import url(../blocks/content-section/__introduction/content-section__introduction.css);
+@import url(../blocks/content-section/__list/content-section__list.css);
+@import url(../blocks/content-section/__list-item/content-section__list-item.css);
+@import url(../blocks/content-section/__list-accent/content-section__list-accent.css);

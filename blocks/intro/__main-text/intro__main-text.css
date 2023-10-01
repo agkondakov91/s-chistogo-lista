@@ -1,0 +1,7 @@
+.intro__main-text {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  font-size: 16px;
+  line-height: 135%;
+}
