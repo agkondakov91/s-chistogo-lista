@@ -3,6 +3,37 @@
     padding: 30px 20px 38px;
 }
 
+.intro__heading {
+    margin-bottom: 24px;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    color: #ccc;
+}
+
+.intro__title {
+    display: inline-block;
+    max-width: 203px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 120%;
+}
+
+.intro__date {
+    white-space: nowrap;
+    font-size: 16px;
+    line-height: 120%;
+}
+
+.intro__main-text {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    font-size: 16px;
+    line-height: 135%;
+}
+
+
 .reasons {
     padding: 40px 20px 38px;
 }
