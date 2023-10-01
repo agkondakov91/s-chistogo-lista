@@ -37,3 +37,21 @@
 @import url(../blocks/content-section/__list/content-section__list.css);
 @import url(../blocks/content-section/__list-item/content-section__list-item.css);
 @import url(../blocks/content-section/__list-accent/content-section__list-accent.css);
+
+/* How to */
+@import url(../blocks/how-to/how-to.css);
+@import url(../blocks/cards-list/cards-list.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/_theme/card_theme_dark.css);
+@import url(../blocks/card/_theme/card_theme_bright.css);
+@import url(../blocks/card/__author/card__author.css);
+@import url(../blocks/card/__author-photo/card__author-photo.css);
+@import url(../blocks/card/__author-name/card__author-name.css);
+@import url(../blocks/card/__content/card__content.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__text/card__text.css);
+
+/* Footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copy/footer__copy.css);
+@import url(../blocks/footer/__links/footer__links.css);
